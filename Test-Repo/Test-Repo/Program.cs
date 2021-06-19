@@ -6,6 +6,7 @@ namespace Test_Repo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("It's new branch!!");
             Console.WriteLine("Hello World!!!");
         }
     }
